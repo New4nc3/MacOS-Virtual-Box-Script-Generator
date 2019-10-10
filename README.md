@@ -1,7 +1,7 @@
 ﻿# MacOS Virtual Box Script Generator
 This project (small utility) is dedicated for people who want to create Mac OS Virtual Machine using Virtual Box.
 
-As you now, before running Sierra / High Sierra / Mojave / Catalina (?) on Virtual Box, you should run next commands from Command Line (in some cases with Admin rights):
+As you now, before running Sierra / High Sierra / Mojave / Catalina (not tested yet) on Virtual Box, you should run next commands from Command Line (in some cases with Admin rights):
 
   cd "C:\Program Files\Oracle\VirtualBox\"
 
@@ -20,5 +20,7 @@ As you now, before running Sierra / High Sierra / Mojave / Catalina (?) on Virtu
 
 So, this utility extract Virtual Machines list from your Virtual Box and generate *.txt or *.bat file (you also can execute this bat to apply commands). 
 
+For example, I have next VM's on my local machine:
+
+
 You can see examples below:
-// TODO: screenShots
