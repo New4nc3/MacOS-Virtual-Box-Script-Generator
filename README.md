@@ -42,6 +42,6 @@ You can see example of using utility below.
 And, if you've checked "Run after generating", you will see something like this:
 ![Console running required commands](ScreenShots/SuccessfullyUpdated.png)
 
-I hope it helps anyone with getting started in Mac on VM.
+I hope it helps anyone with getting started in MacOS on VM.
 
 Good Luck!
